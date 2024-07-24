@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/task/train_combined
+val: /content/drive/MyDrive/task/val_combined
+
+nc: 1  
+names: ['name tag'] 
